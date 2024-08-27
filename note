@@ -1,0 +1,5 @@
+JavaScript Arrays : 
+
+
+
+Note : If we need to show only one item inside "new Array ()" then we can use this way "Array.of(16)"
